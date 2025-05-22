@@ -10,8 +10,9 @@ Prepared findings for executive decision-making
 ## Tools & Skills:
 SQL · PostgreSQL · Data Analysis · Tableau
 
-## Images were created using [https://public.tableau.com/app/]
-(https://public.tableau.com/app/profile/chioma.jennifer.obikili/viz/RockbustersHighGenerationgMovies/Sheet1?publish=yes)
-(https://public.tableau.com/app/profile/chioma.jennifer.obikili/viz/Chiomas3_10/Sheet1?publish=yes)
-(https://public.tableau.com/app/profile/chioma.jennifer.obikili/viz/Top10citiesforRockbuster/Sheet1?publish=yes)
-(https://public.tableau.com/app/profile/chioma.jennifer.obikili/viz/Top5CustomersRockbuster_17458634702840/Sheet1?publish=yes)
+## Visualizations
+Interactive dashboards built with Tableau:
+[High-Generating Movies](https://public.tableau.com/app/profile/chioma.jennifer.obikili/viz/RockbustersHighGenerationgMovies/Sheet1?publish=yes)
+[Customer Behavior Trends](https://public.tableau.com/app/profile/chioma.jennifer.obikili/viz/Chiomas3_10/Sheet1?publish=yes)
+[Top 10 Cities](https://public.tableau.com/app/profile/chioma.jennifer.obikili/viz/Top10citiesforRockbuster/Sheet1?publish=yes)
+[Top 5 Customers](https://public.tableau.com/app/profile/chioma.jennifer.obikili/viz/Top5CustomersRockbuster_17458634702840/Sheet1?publish=yes)
